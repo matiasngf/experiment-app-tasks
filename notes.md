@@ -4,7 +4,7 @@ Some notes for planning / project details.
 ## Technologies
 
 ### Design
-- Figma
+- Figma: [design file](https://www.figma.com/file/VPbui8MdihVElzLgtPgZcY/experiment-app-tasks?node-id=0%3A1)
 
 ### Front end
 - NextJs
@@ -27,6 +27,13 @@ Some notes for planning / project details.
 With Style-guide Driven Development, developers look at the UI as we code it. Instead of a test runner, developers are responsible for visually inspecting what we build and the style guide forms a set of visual expectations for what the UI should look like.
 
 https://medium.com/nulogy/storybook-driven-development-a3c517276c07
+
+## Developer Experience
+- EsLint and Prettier was added to improve Developer Experience.
+- Format on autosave was configured on .vscode folder.
+- NextJs...
+- .editorconfig and .gitattributes to ensure the same config across different users.
+- Dockerfile for deploys
 
 ## App details
 The app should
@@ -69,6 +76,3 @@ User schema
     }
 }
 ```
-
-## Design
-[Figma file](https://www.figma.com/file/VPbui8MdihVElzLgtPgZcY/experiment-app-tasks?node-id=0%3A1)
