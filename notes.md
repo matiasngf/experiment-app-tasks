@@ -34,6 +34,7 @@ https://medium.com/nulogy/storybook-driven-development-a3c517276c07
 - NextJs...
 - .editorconfig and .gitattributes to ensure the same config across different users.
 - Dockerfile for deploys
+- Path aliases to easy import components and functions (see tsconfig.json)
 
 ## App details
 The app should
